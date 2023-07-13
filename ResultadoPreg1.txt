@@ -1,0 +1,15 @@
+Número de procesos : 1
+Tiempo de ejecución serial para n 1000000 : 0.12573900003917515s
+Tiempo de ejecución paralela para n 1000000: 0.3574233000399545s
+Número de procesos : 2
+Tiempo de ejecución serial para n 500000 : 0.05514090007636696s
+Tiempo de ejecución paralela para n 500000: 0.3375713999848813s
+Número de procesos : 3
+Tiempo de ejecución serial para n 100000 : 0.009025100036524236s
+Tiempo de ejecución paralela para n 100000: 0.29306649998761714s
+Número de procesos : 4
+Tiempo de ejecución serial para n 10000 : 0.0016231000190600753s
+Tiempo de ejecución paralela para n 10000: 0.24386509996838868s
+Número de procesos : 5
+Tiempo de ejecución serial para n 1000 : 0.00014000001829117537s
+Tiempo de ejecución paralela para n 1000: 0.279145099921152s
